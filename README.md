@@ -113,7 +113,7 @@ https://tryhackme.com
 SOC operations are one of the most important parts of defensive cybersecurity. This room provided foundational knowledge about monitoring, detection, alert handling, and incident response workflows used by security teams in real-world environments.
 
 ---
----
+
 
 [TryHackMe]:[https://tryhackme.com/room/socfundamentals/congratulations?step=room-completion-share]
 [X]:[https://x.com/charisma1385/status/2057917084651106656]
