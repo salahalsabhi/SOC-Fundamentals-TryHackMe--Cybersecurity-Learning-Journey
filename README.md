@@ -115,11 +115,13 @@ SOC operations are one of the most important parts of defensive cybersecurity. T
 ---
 
 
+
+---
+
 [TryHackMe]:[https://tryhackme.com/room/socfundamentals/congratulations?step=room-completion-share]
 [X]:[https://x.com/charisma1385/status/2057917084651106656]
 [LinkedIn]:[https://www.linkedin.com/feed/update/urn:li:activity:7463683807326674944/]
 
----
 
 #TryHackMe
 #SOC
